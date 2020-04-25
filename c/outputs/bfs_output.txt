@@ -1,0 +1,11 @@
+
+implementation of BFS taversal
+enter the number of verticies of the graph
+enter the adjecency matrix
+enter the source vertex
+1 ---> 1
+1 ---> 2
+1 ---> 3
+1 ---> 4
+1 ---> 5
+1 ---> 6
